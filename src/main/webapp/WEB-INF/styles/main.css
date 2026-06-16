@@ -130,6 +130,14 @@ a:hover {
     background-color: #27ae60;
 }
 
+a.btn {
+    text-decoration: none;
+}
+
+a.btn:hover {
+    color: white;
+}
+
 /* Table Styles */
 .table-container {
     background-color: white;
