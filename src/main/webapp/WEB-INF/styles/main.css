@@ -260,30 +260,3 @@ tr:hover {
     margin-right: 10px;
 }
 
-/* Delete Confirmation Page */
-.delete-confirmation-container {
-    text-align: center;
-    padding: 40px 20px;
-}
-
-.delete-confirmation-container .page-container {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 20px;
-}
-
-.delete-confirmation-container .title {
-    font-size: 20px;
-    font-weight: 600;
-    color: #111827;
-    margin: 0;
-}
-
-.delete-confirmation-container .actions {
-    margin-top: 24px;
-    display: flex;
-    justify-content: center;
-    gap: 12px;
-}
